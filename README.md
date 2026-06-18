@@ -26,3 +26,8 @@
 | **Materia** | Desarrollo de Dispositivos Inteligentes (DDI) |
 | **Correo académico** | miguelangelalvarezibarrautng@gmail.com |
 
+
+## Imagenes sesión 1
+<img width="267" height="257" alt="Captura de pantalla 2026-06-17 191411" src="https://github.com/user-attachments/assets/3cfc109a-9bc2-4ed6-9fd9-7030ee364243" />
+<img width="260" height="261" alt="Captura de pantalla 2026-06-17 191314" src="https://github.com/user-attachments/assets/4c5a7867-1e7a-46be-b401-6649eab1c068" />
+<img width="264" height="260" alt="Captura de pantalla 2026-06-17 191250" src="https://github.com/user-attachments/assets/84d6cd4f-9da0-4f7e-9e95-d20cdc837019" />
