@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Wear OS requiere estas features -->
+    <uses-feature android:name="android.hardware.type.watch" />
+    
+    <!-- Health Services para FC -->
+    <uses-permission android:name="android.permission.BODY_SENSORS" />
+    <uses-permission android:name="android.permission.health.READ_HEART_RATE" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+
+    <application
+        android:label="UTNG Runner"
+        android:theme="@android:style/Theme.DeviceDefault">
+        <activity
+            android:name=".presentation.GameActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+</manifest>
